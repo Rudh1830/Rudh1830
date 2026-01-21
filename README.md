@@ -68,6 +68,10 @@ Data analysis notebooks using Pandas & NumPy.
 🔹 **Hackathons**  
 Problem statements, approaches, and solutions from hackathons.
 
+# 📌 Projects
+- Restaurant Sales Analysis
+- Mall Customers Segmentation
+- Image Processing with OpenCV
 
 ## 🧠 Problem Solving & Practice
 - Daily DSA practice
